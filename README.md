@@ -1,6 +1,7 @@
 <div align="center">
+<h1> 20 years of music listening experience 🦻 </h1>
 
-# 20 years of music listening experience 🦻
+I'm a Software Engineering student specializing in building secure applications and systems.  In a world increasingly reliant on technology, secure applications are a must.  I'm passionate about building robust systems that protect data and user privacy. ;)
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -13,6 +14,16 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GITHUB_PAGES](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-## ![https://spotify-github-profile.vercel.app/api/view.svg?uid=v3c95tfczazkz9wqsttgv6vm7&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=v3c95tfczazkz9wqsttgv6vm7&cover_image=true&theme=novatorem&show_offline=false&background_color=201556&interchange=false&bar_color=5e4eb1&bar_color_cover=false)
+## [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v3c95tfczazkz9wqsttgv6vm7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
+### Top Artists
+
+| Akira Yamaoka | Aphex Twin | Hans Zimmer |
+| --- | --- | --- |
+| ![Akira Yamaoka](https://i.scdn.co/image/ab67616d0000b27330f7a8628bd1b67c0ee5c817) | ![Aphex Twin](https://i.scdn.co/image/ab6761610000e5ebaa3c91d792eb520a5d58daa5) | ![Hans Zimmer](https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d) |
+
+### Top Albums
+
+| Endtroducing... | La La Land (Original Motion Picture SoundTrack) | The Queen Is Dead |
+| --- | --- | --- |
+| ![Endtroducing...](https://i.scdn.co/image/ab67616d0000b2738ce8e9530b875fb9d01a11d8) | ![La La Land (Original Motion Picture SoundTrack)](https://i.scdn.co/image/ab67616d0000b2732a307d64201d08144f68cc49) | ![The Queen is Dead](https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9)

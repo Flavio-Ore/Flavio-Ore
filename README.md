@@ -18,12 +18,18 @@ I'm a Software Engineering student specializing in building secure applications 
 
 ### Top Artists
 
-| Akira Yamaoka | Aphex Twin | Hans Zimmer |
-| --- | --- | --- |
-| ![Akira Yamaoka](https://i.scdn.co/image/ab67616d0000b27330f7a8628bd1b67c0ee5c817) | ![Aphex Twin](https://i.scdn.co/image/ab6761610000e5ebaa3c91d792eb520a5d58daa5) | ![Hans Zimmer](https://i.scdn.co/image/ab6761610000e5eb371632043a8c12bb7eeeaf9d) |
+| Akira Yamaoka | Aphex Twin |
+| --- | --- |
+| ![Akira Yamaoka](https://i.scdn.co/image/ab67616d0000b27330f7a8628bd1b67c0ee5c817) | ![Aphex Twin](https://i.scdn.co/image/ab6761610000e5ebaa3c91d792eb520a5d58daa5)
 
 ### Top Albums
 
-| Endtroducing... | La La Land (Original Motion Picture SoundTrack) | The Queen Is Dead |
+| Favourite Worst Nightmare | Interstellar (Original Motion Picture Soundtrack) | The Queen Is Dead |
 | --- | --- | --- |
-| ![Endtroducing...](https://i.scdn.co/image/ab67616d0000b2738ce8e9530b875fb9d01a11d8) | ![La La Land (Original Motion Picture SoundTrack)](https://i.scdn.co/image/ab67616d0000b2732a307d64201d08144f68cc49) | ![The Queen is Dead](https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9)
+| ![Favourite Worst Nightmare](https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface) | ![Interstellar (Original Motion Picture Soundtrack)](https://i.scdn.co/image/ab67616d0000b273ac29a65e7ffcfa6f9cb0d342) | ![The Queen is Dead](https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9)
+
+### Top songs
+
+| C | Flim | Forest | Everything Is Fine | Lumina |
+| --- | --- | --- | --- | --- |
+| ![the book about my idle plot on a vague anxiety](https://i.scdn.co/image/ab67616d0000b273b5a7cac5f838dcd77512037d) | ![Come To Daddy](https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7) | ![Silent Hill 2](https://i.scdn.co/image/ab67616d0000b27330f7a8628bd1b67c0ee5c817) | ![The White Marble Ambient Collection](https://i.scdn.co/image/ab67616d0000b273120000c9be1b540933bd55a0) | ![Loner](https://i.scdn.co/image/ab67616d00001e023f437976bcd18320e76e175e)

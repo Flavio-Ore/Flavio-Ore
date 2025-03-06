@@ -14,22 +14,4 @@ I'm a Software Engineering student specializing in building secure applications 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GITHUB_PAGES](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-## [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v3c95tfczazkz9wqsttgv6vm7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-### Top Artists
-
-| Akira Yamaoka | Aphex Twin |
-| --- | --- |
-| ![Akira Yamaoka](https://i.scdn.co/image/ab67616d0000b27330f7a8628bd1b67c0ee5c817) | ![Aphex Twin](https://i.scdn.co/image/ab6761610000e5ebaa3c91d792eb520a5d58daa5)
-
-### Top Albums
-
-| Favourite Worst Nightmare | Interstellar (Original Motion Picture Soundtrack) | The Queen Is Dead |
-| --- | --- | --- |
-| ![Favourite Worst Nightmare](https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface) | ![Interstellar (Original Motion Picture Soundtrack)](https://i.scdn.co/image/ab67616d0000b273ac29a65e7ffcfa6f9cb0d342) | ![The Queen is Dead](https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9)
-
-### Top songs
-
-| C | Flim | Forest | Everything Is Fine | Lumina |
-| --- | --- | --- | --- | --- |
-| ![the book about my idle plot on a vague anxiety](https://i.scdn.co/image/ab67616d0000b273b5a7cac5f838dcd77512037d) | ![Come To Daddy](https://i.scdn.co/image/ab67616d0000b273c4d5de8930bbc762a68c0bc7) | ![Silent Hill 2](https://i.scdn.co/image/ab67616d0000b27330f7a8628bd1b67c0ee5c817) | ![The White Marble Ambient Collection](https://i.scdn.co/image/ab67616d0000b273120000c9be1b540933bd55a0) | ![Loner](https://i.scdn.co/image/ab67616d00001e023f437976bcd18320e76e175e)
+## [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v3c95tfczazkz9wqsttgv6vm7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile

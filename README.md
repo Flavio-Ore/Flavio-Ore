@@ -1,3 +1,12 @@
 # [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v3c95tfczazkz9wqsttgv6vm7&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=0055ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-Final-year Software Engineering student crafting scalable full-stack solutions with React, Next.js, NestJS, GraphQL, and AWS. Built a mini-ERP inventory system (Spring Boot + React), a social network (Appwrite), and a lit review tool (Gemini API)—all deployed on Vercel/Railway. Detail-oriented cloud architect enthusiast & sports/trekking/tourism adventurer🤘 exploring scalable designs. Open to remote collabs from Lima, Peru 🛩️.
+Detail-oriented software cloud developer & sports/trekking/tourism adventurer🤘 exploring scalable designs in frontend and backend architecture.
+
+Crafting scalable full-stack solutions with React, Angular, NestJS, Next.js, GraphQL, AWS, Java.
+
+- [x] Built a mini-ERP inventory system (Spring Boot + React)
+- [x] A social network (Appwrite as BaaS)
+- [x] A lit review tool (Gemini API)
+- [x] Deployed on Vercel/Railway/Cloudflare
+
+*Open to remote collabs from Lima, Peru 🛩️.*

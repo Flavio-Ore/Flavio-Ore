@@ -7,6 +7,6 @@ Crafting scalable full-stack solutions with React, Angular, NestJS, Next.js, Gra
 - [x] Built a mini-ERP inventory system (Spring Boot + React)
 - [x] A social network (Appwrite as BaaS)
 - [x] A lit review tool (Gemini API)
-- [x] CI/CD on Vercel/Railway/Cloudflare
+- [x] CI/CD on Vercel/Railway/Cloudflare/GitHub/AWS
 
 *Open to remote collabs from Lima, Peru 🛩️.*
